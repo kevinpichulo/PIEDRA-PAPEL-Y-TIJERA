@@ -1,0 +1,15 @@
+body{
+    background-image: url(imagenes/giphy.gif);
+    background-repeat: no-repeat;
+    font-size: 50px;
+   text-align: center;
+   background-size: cover;
+   background-position: center;
+   color: aqua;
+}
+.opciones {
+    display: grid;
+    grid-gap: 8px;
+    border: 2px solid black;
+    border-color: aqua;
+}
